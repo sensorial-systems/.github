@@ -1,3 +1,5 @@
+[![](https://dcbadge.vercel.app/api/server/uqavuPN2r2)](https://discord.gg/uqavuPN2r2)
+
 # Sensorial Systems
 
 Welcome to **Sensorial Systems**, where we specialize in building intelligent systems using real-world data. Our mission is to harness the power of data and artificial intelligence to create innovative solutions that address complex challenges across various industries.
@@ -23,3 +25,9 @@ Our key skills and competencies include:
 - **Simulation**: We specialize in creating realistic simulations that help in testing and training AI models under various conditions.
 
 - **AI Training**: Our team is skilled in training artificial intelligence models using the data we capture and synthesize, providing valuable insights and predictions.
+
+## Join Our Community
+
+Connect with us on Discord!
+
+[![](https://dcbadge.vercel.app/api/server/uqavuPN2r2)](https://discord.gg/uqavuPN2r2)
